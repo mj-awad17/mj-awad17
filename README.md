@@ -3,11 +3,11 @@
 
 - 👋 Hi, I’m Muhammad Jawad.
 
-- 👀 I’m interested in Data Analytics and Data Science.
+- 👀 I’m interested in ML, DL and AI. 
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently working as Data Analytics.
 
-- 💞️ I’m looking to collaborate on project related to Data Analytics and machine learning.
+- 💞️ I’m looking to collaborate on project related to Data Analytics, machine learning, deep learning and Gen-Ai.
 
 - 📫 How to reach me at jawadrana660@gmail.com
 
