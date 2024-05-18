@@ -3,9 +3,9 @@
 
 - 👋 Hi, I’m Muhammad Jawad.
 
-- 👀 I’m interested in ML, DL and AI. 
-
 - 🌱 I’m currently working as Data Analytics.
+
+- 👀 I’m interested in ML, DL and AI. 
 
 - 💞️ I’m looking to collaborate on project related to Data Analytics, machine learning, deep learning and Gen-Ai.
 
