@@ -1,10 +1,10 @@
-
 # 👋 Hi there, I'm Muhammad Jawad!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=mj-awad17)
 ## 💫 About Me
 
 - 👀 Passionate about AI, Data Science, Gen-Ai and DSA (LeetCode)
@@ -85,10 +85,3 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Ahmad-Fakhar&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 -->
----
-
-<div>
-  <img src="https://visitcount.itsvg.in/api?id=mj-awad17&icon=5&color=11" alt="Visit Count" />
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
