@@ -1,27 +1,29 @@
 # 👋 Hi there, I'm Muhammad Jawad!
 
+**💫 About Me**:
+I’m a passionate AI and Data Science enthusiast, focused on building impactful, real-world solutions through machine learning, generative AI, and intelligent systems. I thrive at the intersection of innovation, problem-solving, and mentorship, with a strong commitment to continuous learning and sharing knowledge.
+
+<!--
+Profile-viewers
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Always+learning+new+things" alt="Typing SVG" />
 </div>
+-->
 
-![](https://komarev.com/ghpvc/?username=mj-awad17)
-## 💫 About Me
+<!--![](https://komarev.com/ghpvc/?username=mj-awad17)-->
 
-- 👀 Passionate about AI, Data Science, Gen-Ai and DSA (LeetCode)
-- 🌱 Currently diving deep into Data Science
-- 💞️ Looking to collaborate on projects
-- 📫 Reach me at: [jawadrana660@gmail.com](mailto:jawadrana660@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love exploring new places in my free time!
 
 ## 🌐 Connect with me
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jawadrana660@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/mj-awad17)
+[![Topmate](https://img.shields.io/badge/Topmate-00C389?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgiIGhlaWdodD0iMjkiIHZpZXdCb3g9IjAgMCAyOCAyOSIgdmlnaXRyYT0iaHR0cHM6Ly92aWdpdHIuZGV2LzIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE1Ljk0MzMgOS4zOTk3NEMxNS44NDAzIDguMjI2MzggMTQuNzYxNiA3LjI1MzY4IDEzLjUwNDkgNy4yNTM2OEMxMi4yNDgzIDcuMjUzNjggMTEuMTcxNiA4LjIyNjM4IDExLjA2ODYgOS4zOTk3NEgxNS45NDMzWk0yNS4wNTEyIDIuMDY1MzZIMi45MDA4NUMxLjMwMDk2IDIuMDY1MzYgMCAzLjM3OTk2IDAgNC45Njk4NlYyMi44NDkyQzAgMjQuNDM5MSAxLjMwMDk2IDI1Ljc1MjcgMi45MDA4NSAyNS43NTI3SDI1LjA1MTJDMjYuNjUxMiAyNS43NTI3IDI3Ljk1MjIgMjQuNDM5MSAyNy45NTIyIDIyLjg0OTJWNDAwMDMwNTYgMjQ5NTAzNjE4QzI3Ljk1MjIgMy4zNzk5NiAyNi42NTEyIDIuMDY1MzYgMjUuMDUxMiAyLjA2NTM2Wk0xNC4xNzUgMjAuMTgxNEMxMy43NjU5IDIwLjE4MTQgMTMuMzUyOCAyMC4wNTQgMTMuMDM4MiAxOS43OTI5TDEwLjQ0MDYgMTcuNTMwNEM5Ljc2MTY4IDE2LjkzNzIgOS43NTg0MiAxNS45NzIzIDEwLjQzMzYgMTUuMzc2N0wxMy4wMDU2IDEzLjExNzdDMTMuMzQwMiAxMi44Mjg4IDEzLjc1MzYgMTIuNzAyNCAxNC4xNTI1IDEyLjcwMjRIMTguOTkxNkMxOS44MDUzIDEyLjcwMjQgMjAuMjEyNyAxMy42NTE2IDE5LjYwODMgMTQuMjQ2MUwxNi44NDUyIDE2LjU2ODZMMTkuNjEzNyAxOC44NDM2QzIwLjIyMTUgMTkuNDM2NSAxOS44MjA3IDIwLjM4NjQgMTguOTk4OCAyMC4zODY0SDE0LjE3NVoiIGZpbGw9IndoaXRlIi8+PC9zdmc+)](https://www.topmate.io/mjawad17)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jawad-86507b201/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjawawd17)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmad.fakhar275)-->
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmad.fakhar275)-->
 
+<!--
 ## 💻 Tech Stack
-
 <div align="center">
 
 ### Languages & Frameworks
@@ -56,9 +58,9 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
+-->
 
 ## 📊 GitHub Stats
-
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj-awad17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500px" height="200px" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=mj-awad17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="450px" height="200px" />
@@ -72,7 +74,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Fakhar&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
 </div>
 -->
-## 💡 A Random Dev Quote
+## 💡 Today Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -80,7 +82,6 @@
 
 <!--
 ## 🔝 Top Contributed Repo
-
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Ahmad-Fakhar&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
