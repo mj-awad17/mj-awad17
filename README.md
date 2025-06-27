@@ -81,6 +81,7 @@ CS Graduate | I am deeply interested in Data Science, Machine Learning, Artifici
 [<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/mj-awad17)
 [<img src='https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-64.png' alt='discord' height='40'>](https://discord.com/users/mj_awad17)
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png' alt='kaggle' height='40'>](https://www.kaggle.com/mjawad17)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png' alt='YouTube' height='40'>](https://www.youtube.com/@mj-awad17/videos)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <!-- [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary) -->
 <!-- [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary) -->
