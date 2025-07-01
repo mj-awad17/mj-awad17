@@ -108,13 +108,13 @@ CS Graduate | I am deeply interested in Data Science, Machine Learning, Artifici
 
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> Overall Stats
 
-<table>
+<!-- <table>
   <tr>
     <td>
-      <a href="https://github.com/mj-awad17/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elmesmary&hide_border=true&show_icons=true" alt="Moataz's GitHub Stats" /> </a>
+      <a href="https://github.com/mj-awad17/github-readme-stats"> <img src="https://github.com/mj-awad17/github-readme-stats.png" alt="Moataz's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/mj-awad17/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elmesmary&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+      <a href="https://github.com/mj-awad17/github-readme-stats"> <img src="https://github.com/mj-awad17/github-readme-stats.png" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ CS Graduate | I am deeply interested in Data Science, Machine Learning, Artifici
         <img src="http://github-readme-streak-stats.herokuapp.com?user=mj-awad17&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Jawad's GitHub Readme Streak Stats" width="450px" height="200px" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 💡 Today Dev Quote
 
